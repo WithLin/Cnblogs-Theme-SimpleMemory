@@ -44,7 +44,7 @@ function myTools() {
             case 'banner':
                 console.log('\n' + ' %c WithLin CNBlogs %c https://www.cnblogs.com/WithLin ' + '\n', 'color: #fadfa3; background: #030307; padding:5px 0;', 'background: #fadfa3; padding:5px 0;');
                 console.log('\n' + ' %c WithLin GitHub %c https://github.com/WithLin ' + '\n', 'color: #fadfa3; background: #030307; padding:5px 0;', 'background: #fadfa3; padding:5px 0;');
-                console.log('\n' + ' %c WithLin Email %c withlin#yeah.net ' + '\n', 'color: #fadfa3; background: #030307; padding:5px 0;', 'background: #fadfa3; padding:5px 0;');
+                console.log('\n' + ' %c WithLin Email %c withlin@yeah.net ' + '\n', 'color: #fadfa3; background: #030307; padding:5px 0;', 'background: #fadfa3; padding:5px 0;');
                 break;
 
             default:
